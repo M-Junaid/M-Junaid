@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-junaid&label=Profile%20views&color=0e75b6&style=flat" alt="m-junaid" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently working **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Junaid](https://github.com/M-Junaid)
 
