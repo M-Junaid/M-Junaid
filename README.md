@@ -44,17 +44,19 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![M-Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-junaid&show_icons=true&theme=tokyonight&count_private=true)
+![M-Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Junaid&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-junaid&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Junaid&layout=compact&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-junaid&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=M-Junaid&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+![Visitors](https://komarev.com/ghpvc/?username=M-Junaid&color=blue&style=for-the-badge)
 
 ---
 
